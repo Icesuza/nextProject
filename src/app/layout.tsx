@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   description: 'Using React Query',
   openGraph: {
     title: "nextPro",
-    description: "Share this awesome app with your friends.",
+    description: "Testing deployment next tanstack project in versel.",
     url: "https://nextPro",
     siteName: "nextPro",
     images: [
       {
-        url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fvector-illustration&psig=AOvVaw3lJ0zbdoYDs84WaWP6jIRd&ust=1751343992953000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi15vmmmI4DFQAAAAAdAAAAABAE",
+        url: "https://static.vecteezy.com/system/resources/thumbnails/004/263/312/small_2x/girl-walking-on-isolated-moon-background-flat-illustration-free-vector.jpg",
         width: 1200,
         height: 630,
         alt: "My App Preview Image",
